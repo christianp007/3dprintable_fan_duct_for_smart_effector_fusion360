@@ -1,0 +1,2 @@
+# 3dprintable_fan_duct_for_smart_effector_fusion360
+ 
