@@ -1,5 +1,5 @@
 # 3dprintable_fan_duct_for_smart_effector_fusion360
- A 3d printable fan duct for the delta smart effector designes in Fusion360
+ A 3d printable fan duct for the delta smart effector designed in Fusion360
 
 I wasn't happy with the cooling performance of the conventional fan duct on my Smart Effector.<br>
 Especially on small parts the air wasn't coming close enough th to nozzle tip to effectivly cool the part, additionally the cooling effect was different on all sides of the model.
